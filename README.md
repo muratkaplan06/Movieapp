@@ -2,9 +2,9 @@
 
 This project is about a interface of movieapp, it is static web site so it is included Html and Css code
 
-> You can visit at that link:
+> *You can visit at that link*:
 > [Movieapp_Web_Site](https://hungry-boyd-4d4acc.netlify.app/)
 
-| NAME         | E-mail                      |
+| **NAME**         | **E-mail**                     |
 | ------------ | --------------------------- |
-| Murat Kaplan | muratkaplan061989@gmail.com |
+| **Murat Kaplan** | muratkaplan061989@gmail.com |
