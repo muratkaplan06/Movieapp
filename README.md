@@ -3,7 +3,7 @@
 This project is about a interface of movieapp, it is static web site so it is included Html and Css code
 
 > *You can visit at that link*:
-> [Movieapp_Web_Site](https://hungry-boyd-4d4acc.netlify.app/)
+> [Movieapp_Web_Site](https://film-uygulama.netlify.app/)
 
 | **NAME**         | **E-mail**                     |
 | ------------ | --------------------------- |
